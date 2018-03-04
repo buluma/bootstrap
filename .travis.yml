@@ -28,6 +28,8 @@ cache:
   directories:
     - node_modules
     - vendor/bundle
+notifications:
+  webhooks: https://galaxy.ansible.com/api/v1/notifications/
 #notifications:
 #  slack: heybb:iz4wwosL0N0EdaX1gvgkU0NH
 #  webhooks:
